@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Tic-Tac-Toe game built with React JS.
 
 ## Available Scripts
 
