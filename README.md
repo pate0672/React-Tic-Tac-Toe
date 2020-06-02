@@ -1,4 +1,4 @@
-This is a Tic-Tac-Toe game built with React JS.
+# This is a Tic-Tac-Toe game built with React JS.
 
 ## STEPS TO USE IT:
 
